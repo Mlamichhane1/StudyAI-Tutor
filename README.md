@@ -2,8 +2,6 @@
 
 > 🎓 *AI that helps you study, not cheat.*
 
-![StudyAI Tutor Logo](https://raw.githubusercontent.com/yourusername/studyai-tutor/main/logo.png)
-
 ---
 
 ## 📘 Overview
