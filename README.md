@@ -29,7 +29,7 @@ Our mission: **to make AI a learning partner, not a shortcut.**
 | **Database** | Firebase / PostgreSQL (via Supabase) |
 | **AI Engine** | OpenAI GPT-4o |
 | **Hosting** | Vercel (frontend) · Railway (backend) |
-| **Version Control** | Git & GitHub |
+| **Version Control** | GitHub |
 
 ---
 
@@ -86,9 +86,9 @@ StudyAI Tutor’s goal is to empower students to master concepts, not memorize a
 Madhav Lamichhane
 Economics & Data Science @ Drexel University
 📍 Philadelphia, PA
-🔗 LinkedIn · Instagram
+🔗 LinkedIn
 
 🧾 License
 MIT License © 2025 StudyAI Tutor
 yaml
-Copy code
+
